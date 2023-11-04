@@ -1,0 +1,24 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 15em;
+    margin-right: 15em;
+    align-content: baseline;
+}
+
+img {
+    padding-top: 3em;
+
+}
+
+.txtbox {
+    padding-top: 3em;
+}
+
+button {
+    border: none;
+    background-color: rgba(13, 13, 150, 0.864);
+    color: white;
+    padding: 8px;
+    border-radius: 1px;
+}
