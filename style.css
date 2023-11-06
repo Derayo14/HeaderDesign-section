@@ -1,0 +1,41 @@
+/* body{
+    background-color: rgb(255, 8, 8);
+} */
+header{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+.logo{
+    margin-left: 8em;
+}
+.menu{
+    display: flex;
+    gap: 25px;
+}
+.btn{
+    margin-right: 8em;
+    display: flex;
+    gap: 10px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: blue;
+}
+
+.btnone{
+    border: none;
+    background-color: transparent;
+}
+.btntwo{
+    border: none;
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+    padding: 5px;
+}
